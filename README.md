@@ -10,3 +10,6 @@ Angular: A client-side JavaScript framework
 
 Node.js: A JavaScript runtime
 
+
+
+![mean stack step pics](https://user-images.githubusercontent.com/82297594/153544305-b3fc9773-c5c3-47ca-9002-b516f4d17e65.png)
